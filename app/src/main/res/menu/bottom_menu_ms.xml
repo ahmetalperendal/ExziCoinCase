@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment2"
+        android:icon="@drawable/nav_icon1"
+        android:title="EXZİ" />
+    <item
+        android:id="@+id/missionsFragment"
+        android:icon="@drawable/nav_icon2"
+        android:title="Market" />
+
+    <item
+        android:id="@+id/tradeFragmentt"
+        android:title="Trade" />
+
+    <item
+        android:id="@+id/sosFragment"
+        android:icon="@drawable/nav_icon3"
+        android:title="Copy" />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/nav_icon"
+        android:title="Assets" />
+</menu>

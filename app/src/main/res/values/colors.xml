@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="red">#EF0707</color>
+    <color name="black1">#323232</color>
+    <color name="buyColor_50">#293AD09F</color>
+
+    <color name="status1">#FF5722</color>   <!-- Yapılacak -->
+    <color name="status2">#209AD2</color>   <!-- Devam Ediyor -->
+    <color name="status3">#2BBD21</color>    <!-- Tamamlandı -->
+
+    <color name="color1">#0A2647</color>    <!-- Tamamlandı -->
+    <color name="color2">#144272</color>    <!-- Tamamlandı -->
+    <color name="color3">#205295</color>    <!-- Tamamlandı -->
+    <color name="color4">#2C74B3</color>    <!-- Tamamlandı -->
+    <color name="colorDark">#0E111B</color>    <!-- Tamamlandı -->
+    <color name="grey">#304262</color>
+    <color name="connected">#3ad09f</color>
+    <color name="sellColor_50">#29F87979</color>
+    <color name="background_color">#F1F4F6</color>
+    <color name="border_color">#DDDDDD</color>
+    <color name="text_color1">#343434</color>
+    <color name="buyColor">#3ad09f</color>
+    <color name="background_a">#F7FAFD</color>
+    <color name="red_100">#EB5757</color>
+    <color name="dark_red">#BD0303</color>
+    <color name="sellColor">#f87979</color>
+    <color name="disconnected">#ffb130</color>
+    <color name="pink">#FF1744</color>
+    <color name="green">#187A11</color>
+    <color name="grey2">#A4A8AD</color>
+    <color name="dark_blue">#1B1F2D</color>
+    <color name="green2">#00B27C</color>
+    <color name="grey3">#BFC2C5</color>
+    <color name="purple">#6F7DAA</color>
+    <color name="white2">#F4F5F5</color>
+    <color name="grey4">#898F94</color>
+    <color name="red2">#FF5A5F</color>
+    <color name="grey5">#B3B3B3</color>
+    <color name="purple2">#9CA5C4</color>
+</resources>
